@@ -1,0 +1,9 @@
+.liveTitle {
+  font-family: Hiragino Kaku Gothic ProN;
+}
+.japaneseText {
+  font-family: Hiragino Kaku Gothic ProN;
+}
+@media screen and (max-width:480px) { 
+  .liveTitle { font-size:25px !important; }
+}
