@@ -7,3 +7,9 @@
 @media screen and (max-width:480px) { 
   .liveTitle { font-size:25px !important; }
 }
+@media screen and (max-width:768px) { 
+  .break:after {
+    content: "\A";
+    white-space: pre;
+  }
+}
